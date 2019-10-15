@@ -6,7 +6,7 @@ var forLoop = (array) => {
 }
 
 var whileLoop = (n) => {
-  while (n >= 1) {
+  while (n >= 0) {
     console.log(n);
     n--;
     }
