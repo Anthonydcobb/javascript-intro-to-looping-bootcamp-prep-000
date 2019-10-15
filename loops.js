@@ -10,7 +10,7 @@ var whileLoop = (n) => {
     console.log(--n);
 
     }
-    console.log("done")
+    return "done";
   }
 
   var incrementVariable = () => {
