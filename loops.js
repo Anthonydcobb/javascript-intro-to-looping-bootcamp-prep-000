@@ -8,7 +8,6 @@ var forLoop = (array) => {
 var whileLoop = (n) => {
   while (n >= 1) {
     console.log(--n);
-
     }
     return "done";
   }
